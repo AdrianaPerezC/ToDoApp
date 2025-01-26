@@ -2,6 +2,9 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.6.
 
+## Deploy in FireBase
+- https://todoapp-99a02.web.app/
+
 ## Development server
 
 To start a local development server, run:
